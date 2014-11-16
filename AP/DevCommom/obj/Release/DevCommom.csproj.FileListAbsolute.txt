@@ -1,0 +1,10 @@
+C:\DVE脚本集\DevCommom\bin\Release\DevCommom.dll
+C:\DVE脚本集\DevCommom\bin\Release\DevCommom.pdb
+C:\DVE脚本集\DevCommom\bin\Release\LeagueSharp.Common.dll
+C:\DVE脚本集\DevCommom\bin\Release\LeagueSharp.dll
+C:\DVE脚本集\DevCommom\bin\Release\SharpDX.dll
+C:\DVE脚本集\DevCommom\bin\Release\SharpDX.Direct3D9.dll
+C:\DVE脚本集\DevCommom\bin\Release\LeagueSharp.xml
+C:\DVE脚本集\DevCommom\obj\Release\DevCommom.csprojResolveAssemblyReference.cache
+C:\DVE脚本集\DevCommom\obj\Release\DevCommom.dll
+C:\DVE脚本集\DevCommom\obj\Release\DevCommom.pdb

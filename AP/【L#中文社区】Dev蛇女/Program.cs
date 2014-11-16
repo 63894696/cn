@@ -740,7 +740,7 @@ namespace DevCassio
             if (mustDebug)
                 Game.PrintChat("InitializeMainMenu Start");
 
-            Config = new Menu("榄旇泧涔嬫嫢", "DevCassio", true);
+            Config = new Menu("L#涓枃绀惧尯-榄旇泧涔嬫嫢", "DevCassio", true);
 
             var targetSelectorMenu = new Menu("鐩爣閫夋嫨", "Target Selector");
             SimpleTs.AddToMenu(targetSelectorMenu);
@@ -810,6 +810,7 @@ namespace DevCassio
 			Config.AddSubMenu(new Menu("L#涓枃绀惧尯", "guanggao"));
 				Config.SubMenu("guanggao").AddItem(new MenuItem("wangzhan", "www.loll35.com"));
 				Config.SubMenu("guanggao").AddItem(new MenuItem("qunhao", "姹夊寲缇わ細397983217"));
+
 
             skinManager.AddToMenu(ref Config);
 
